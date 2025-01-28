@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🔭 I’m currently working on various web development projects
 - 🌱 I’m currently learning advanced JavaScript frameworks like Nextjs
 - 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about anything related to web development or 
+- 💬 Ask me about anything related to web development
 - 📫 How to reach me: [arthur.kamenitchualeu@gmail.com](mailto:arthur.kamenitchualeu@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time

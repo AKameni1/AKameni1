@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time
 
 ## 🛠️ Technologies & Tools
-- Languages: HTML, CSS, JavaScript, Python, C#, C++, C, TypeScript
-- Frameworks: React, Vue.js, Node.js, Express.js, Nextjs, Nestjs
+- Languages: HTML, CSS, JavaScript, Python, C#, C++, C, TypeScript, Java, Kotlin, Swift
+- Frameworks: React, Vue.js, Express.js, Nextjs, Nestjs
 - Api: REST, GRAPHQL
 - Tools: Git, GitHub, VS Code, Docker, Visual Studio
-- Databases: MongoDB, SQL, PostgreSQL, SQL Server, SQLite
+- Databases: MongoDB, PostgreSQL, SQL Server, SQLite, MySQL
 
 ## 📈 GitHub Stats
 ![AKameni1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKameni1&show_icons=true&theme=tokyonight)

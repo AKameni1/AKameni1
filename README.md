@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time
 
 ## 🛠️ Technologies & Tools
-- Languages: HTML, CSS, JavaScript, Python, C#, C++, C, TypeScript, Java, Kotlin, Swift
+- Languages: HTML5, CSS3, JavaScript, Python, C#, C++, C, TypeScript, Java, Kotlin, Swift
 - Frameworks: React, Vue.js, Express.js, Nextjs, Nestjs
 - Api: REST, GRAPHQL
 - Tools: Git, GitHub, VS Code, Docker, Visual Studio
